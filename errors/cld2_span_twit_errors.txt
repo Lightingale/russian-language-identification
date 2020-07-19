@@ -1,0 +1,46 @@
+False Positive samples:
+
+Index: 709
+Text:
+і знову,припишіть мене вже в Львові а) RT @sshaganov: @Kvitka_ чет ну никак не киевляночка.Я тож постоянно дмаю что ты все таки львовяночка
+Actual language: uk
+Predicted language: ru
+-----------------
+
+
+
+False Negative samples:
+
+Index: 2549
+Text:
+@darkproger спасибо
+Actual language: ru
+Predicted language: un
+-----------------
+Index: 11056
+Text:
+@Roman_Ahvedov "Нам татарам лишь бы даром"))))
+Actual language: ru
+Predicted language: un
+-----------------
+Index: 9662
+Text:
+шампанское и мандарины в студию!
+Actual language: ru
+Predicted language: ru
+-----------------
+Index: 8245
+Text:
+@Arwydd Согласен. Есть книги этого издательства. Издательство патриотическое.
+Actual language: ru
+Predicted language: un
+-----------------
+Index: 7953
+Text:
+RT @JokeRNtFan: @anna_malina24 ты такая классная :)
+Actual language: ru
+Predicted language: ru
+-----------------
+
+
+

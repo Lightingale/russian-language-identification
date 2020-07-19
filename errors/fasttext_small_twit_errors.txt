@@ -1,0 +1,76 @@
+False Positive samples:
+
+Index: 12222
+Text:
+Левски победи в Тел Авив  http://t.co/aDoH8d8H
+Actual language: bg
+Predicted language: __label__ru
+-----------------
+Index: 2129
+Text:
+@zi__na 뽀득뽀득 ㅋㅋㅋㅋ
+Actual language: ko
+Predicted language: __label__ru
+-----------------
+Index: 14127
+Text:
+@DJPadillaClan NAKOOOO KAYA KITA LOVE E &gt;:D&lt;
+Actual language: tl
+Predicted language: __label__ru
+-----------------
+Index: 5378
+Text:
+Граждани
+
+Не плачи, майко не тъжи, че станах ази гражданин,
+
+гражданин, майко чиновник
+
+и тебе клета оставих да... http://t.co/w09RhOa7
+Actual language: bg
+Predicted language: __label__ru
+-----------------
+Index: 4221
+Text:
+TRANSPORT PERSOANE: TRANSPORT PERSOANE LA BUCURESTI,AEROPORTURI,SAU ALTE DESTINATII-DUS-INTORS.PRETURI MINIME! T... http://t.co/vT7KAK4L
+Actual language: ro
+Predicted language: __label__ru
+-----------------
+
+
+
+False Negative samples:
+
+Index: 2822
+Text:
+@Just_Jullie Дала дiтям грошей чи конхвет=)???
+Actual language: ru
+Predicted language: __label__uk
+-----------------
+Index: 359
+Text:
+ВЫСТАВКИ http://t.co/pzVSgG5b
+Actual language: ru
+Predicted language: __label__en
+-----------------
+Index: 10103
+Text:
+“@Ramnovik: Хочу купить себе цветные линзы" Тооооже хачууууууу😖
+Actual language: ru
+Predicted language: __label__mn
+-----------------
+Index: 2312
+Text:
+@100Rm да!
+Actual language: ru
+Predicted language: __label__cv
+-----------------
+Index: 5989
+Text:
+@TheRealGuf ну няш((
+Actual language: ru
+Predicted language: __label__be
+-----------------
+
+
+

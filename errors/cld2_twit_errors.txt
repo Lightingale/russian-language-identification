@@ -1,0 +1,64 @@
+False Positive samples:
+
+Index: 709
+Text:
+і знову,припишіть мене вже в Львові а) RT @sshaganov: @Kvitka_ чет ну никак не киевляночка.Я тож постоянно дмаю что ты все таки львовяночка
+Actual language: uk
+Predicted language: ru
+-----------------
+Index: 2800
+Text:
+@VirtualChloe17 а ваша Галя балувана :))
+Actual language: uk
+Predicted language: ru
+-----------------
+Index: 6351
+Text:
+Строителство до ключ:  http://t.co/ApEkKewp
+Actual language: bg
+Predicted language: ru
+-----------------
+Index: 10021
+Text:
+Сустрэла ў трамваі знаёмага:"-прівет,откуда едешь? -з унівэра. -о,а где учішься? -на філфаку. -классно! Філософом будешь?"  ЛОЛШТО???
+Actual language: be
+Predicted language: ru
+-----------------
+
+
+
+False Negative samples:
+
+Index: 1608
+Text:
+RT @basilioff: В казахстанской богемной тусовке самый главный - Богембай батыр!
+Actual language: ru
+Predicted language: sw
+-----------------
+Index: 3831
+Text:
+Депрессия и уныние http://t.co/lWAamKxV
+Actual language: ru
+Predicted language: tg
+-----------------
+Index: 3466
+Text:
+@SnowflakeSnow11 да-да, артикли - моя проблема XD really weird XDD
+Actual language: ru
+Predicted language: en
+-----------------
+Index: 3994
+Text:
+Под евро за год в украине построили 9 отелей http://t.co/GNOzH4Go #туризм
+Actual language: ru
+Predicted language: sr
+-----------------
+Index: 8964
+Text:
+лениво геометрию делать
+Actual language: ru
+Predicted language: un
+-----------------
+
+
+

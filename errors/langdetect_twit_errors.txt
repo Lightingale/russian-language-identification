@@ -1,0 +1,70 @@
+False Positive samples:
+
+Index: 10024
+Text:
+херню што зьлева сёньня мужык побач са мной у мэтро чытаў http://t.co/O02UlyTm
+Actual language: be
+Predicted language: ru
+-----------------
+Index: 10864
+Text:
+Пост из твиттера. http://t.co/X9mkvUQJ
+Actual language: bg
+Predicted language: ru
+-----------------
+Index: 4471
+Text:
+@nik_prosto ня ведаю, я проста ўгараю
+Actual language: be
+Predicted language: ru
+-----------------
+Index: 10025
+Text:
+@nik_prosto @muahahahhh мала таго што ў Менску, дык ён яшчэ ходзіць зараз па маім факультэце! непарадак)
+Actual language: be
+Predicted language: ru
+-----------------
+Index: 7523
+Text:
+Кіоски стали затримання столичного чиновника http://t.co/Ovl4gH9A
+Actual language: uk
+Predicted language: ru
+-----------------
+
+
+
+False Negative samples:
+
+Index: 2546
+Text:
+@ein вода летит?
+Actual language: ru
+Predicted language: mk
+-----------------
+Index: 7391
+Text:
+@MyLoveUnited смотрю Мишин стрим... 3-3 на НЮКЕ
+Actual language: ru
+Predicted language: bg
+-----------------
+Index: 5993
+Text:
+@Protas23 @RomaTweetcorn альбатросы
+Actual language: ru
+Predicted language: et
+-----------------
+Index: 10288
+Text:
+3 : 40 я сижу вк
+Actual language: ru
+Predicted language: uk
+-----------------
+Index: 4802
+Text:
+@ShannonShinoda кстати да!...я там и в Неадекватах)
+Actual language: ru
+Predicted language: bg
+-----------------
+
+
+

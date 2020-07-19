@@ -1,0 +1,72 @@
+False Positive samples:
+
+Index: 8137
+Text:
+ДОЖИВОТЕН ЗАТВОР ЗА ВСЕКИ, КОЙТО ПОСЕГНЕ НА ДЕТЕ!!! http://t.co/PGzRQkZs
+Actual language: bg
+Predicted language: __label__ru
+-----------------
+Index: 9414
+Text:
+מי פה?!?
+באלכן משחק.??
+&gt;נעה&lt;
+Actual language: he
+Predicted language: __label__ru
+-----------------
+Index: 12223
+Text:
+Диого пита ЦСКА дали може да напусне  http://t.co/7bxI1dtn
+Actual language: bg
+Predicted language: __label__ru
+-----------------
+Index: 10864
+Text:
+Пост из твиттера. http://t.co/X9mkvUQJ
+Actual language: bg
+Predicted language: __label__ru
+-----------------
+Index: 6354
+Text:
+ПРЕВОЗ с Бус до 2 тона в СОФИЯ и Страната на ниски цени-0888220959:  http://t.co/IVuoMUxM
+Actual language: bg
+Predicted language: __label__ru
+-----------------
+
+
+
+False Negative samples:
+
+Index: 2822
+Text:
+@Just_Jullie Дала дiтям грошей чи конхвет=)???
+Actual language: ru
+Predicted language: __label__uk
+-----------------
+Index: 6246
+Text:
+скачать кліп гайтана шахтар торент: http://t.co/jJjgXq5I
+Actual language: ru
+Predicted language: __label__uk
+-----------------
+Index: 9663
+Text:
+@patrick_nya доо:*
+Actual language: ru
+Predicted language: __label__fr
+-----------------
+Index: 11484
+Text:
+@mama_oya @Tom795 @7mitya @xaxatysja всем приветик
+Actual language: ru
+Predicted language: __label__uk
+-----------------
+Index: 14021
+Text:
+@feastwit а ну его на))))
+Actual language: ru
+Predicted language: __label__eo
+-----------------
+
+
+

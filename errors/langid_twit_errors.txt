@@ -1,0 +1,70 @@
+False Positive samples:
+
+Index: 13457
+Text:
+Шчесни: Можеме во топ 4! http://t.co/3T7hs5Gp
+Actual language: mk
+Predicted language: ru
+-----------------
+Index: 3215
+Text:
+#sendnews Небето в София http://t.co/REn9RwyE
+Actual language: bg
+Predicted language: ru
+-----------------
+Index: 712
+Text:
+оце сервіс - 7.5 скручених в трубочку)))
+Actual language: uk
+Predicted language: ru
+-----------------
+Index: 343
+Text:
+Пробутали са ми лют червен пипер за готвене,ам го разбрах  чак след като сготвих:(((((((((((((((((((((мнооого лют!
+Actual language: bg
+Predicted language: ru
+-----------------
+Index: 918
+Text:
+Днес: Мартин Петров бележи срещу Италия!!! http://t.co/OjD2l2HI
+Actual language: bg
+Predicted language: ru
+-----------------
+
+
+
+False Negative samples:
+
+Index: 7953
+Text:
+RT @JokeRNtFan: @anna_malina24 ты такая классная :)
+Actual language: ru
+Predicted language: be
+-----------------
+Index: 14021
+Text:
+@feastwit а ну его на))))
+Actual language: ru
+Predicted language: mk
+-----------------
+Index: 4830
+Text:
+@Pan_Yana ге-моя классная:D
+Actual language: ru
+Predicted language: be
+-----------------
+Index: 10291
+Text:
+хаха, нарываюсь, ну, точно)
+Actual language: ru
+Predicted language: be
+-----------------
+Index: 9659
+Text:
+@be_the_bitch золушку:*
+Actual language: ru
+Predicted language: be
+-----------------
+
+
+

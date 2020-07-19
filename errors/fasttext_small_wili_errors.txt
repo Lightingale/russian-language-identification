@@ -1,0 +1,40 @@
+False Positive samples:
+
+Index: 21581
+Text:
+Кобаяси Исса (японоор 小林一茶, мүн Ятаро (японоор 弥太郎, Ятаро:; 1763 оной 6 һарын 15 — 1828 оной 1 һарын 5) — Японой ирагуу найрагша, Мацуо Басё болон Ёса Бусоной һүүлдэ агуу ехэ хайку зохёолшо.
+Actual language: bxr
+Predicted language: __label__ru
+-----------------
+Index: 30612
+Text:
+Тячиень велеса - средняй школа, библиотека, лавкат, сязень отделеният; велень администрациянь территориянь лесничества, лофцонь потннемань комплекс, "Сура" турбазась, идень лагерьхть.
+Actual language: mdf
+Predicted language: __label__ru
+-----------------
+Index: 20690
+Text:
+Jekaterinan kirikkö (ven. Церковь во имя святой великомученицы Екатерины) on pravoslavnoi, arhitekturnoi mustokirikkö Petroskpoin linnan. Sijoittihes Vol´noin uulučal Kalmižiman ogruadas.
+Actual language: olo
+Predicted language: __label__ru
+-----------------
+Index: 79089
+Text:
+Йыгева ош (эст. Jõgeva, нем. Laisholm) — ош чилисемань ёнкссо Эстэнь Масторсо, Йыгевамаа ёнксонть административной куншка тарка. Ашти Педья лей ланксо.
+Actual language: myv
+Predicted language: __label__ru
+-----------------
+Index: 64455
+Text:
+Скептростахис (лат. Skeptrostachys) – Орхидея котырись (Orchidaceae) быдмас увтыр. Скептростахис увтырӧ пырӧны 13 вид. Скептростахис пантасьӧ Лунвыв Америкаын.
+Actual language: koi
+Predicted language: __label__ru
+-----------------
+
+
+
+False Negative samples:
+
+
+
+

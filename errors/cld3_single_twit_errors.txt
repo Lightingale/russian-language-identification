@@ -1,0 +1,73 @@
+False Positive samples:
+
+Index: 979
+Text:
+Сьогодні християни вшановують матiр Iсуса Дiву Марiю:  http://t.co/zPriue40
+Actual language: uk
+Predicted language: ru
+-----------------
+Index: 10446
+Text:
+Re: Среща в София http://t.co/vbbaflNl
+Actual language: bg
+Predicted language: ru
+-----------------
+Index: 2626
+Text:
+бля...а ще загранку робить....
+Actual language: uk
+Predicted language: ru
+-----------------
+Index: 2146
+Text:
+@PierreLouys οχι αλλά η ζήτηση αποφοίτων του Harvard συγκριτικά με το ελλ ΑΕΙ το κάνει @platitudinous @etceteria
+Actual language: el
+Predicted language: ru
+-----------------
+Index: 7221
+Text:
+@tora_datoomouyo 
+緑、青、金の3ランクだよ～♪
+
+金は高い壁だよ(￣◇￣;)
+Actual language: ja
+Predicted language: ru
+-----------------
+
+
+
+False Negative samples:
+
+Index: 7435
+Text:
+@CannotDi хм.... *потерла подбородок* даже не знаю XDDDDDDD
+Actual language: ru
+Predicted language: cy
+-----------------
+Index: 12791
+Text:
+@ASpiridonov а нам, значит, не спать? ;)
+Actual language: ru
+Predicted language: hi-Latn
+-----------------
+Index: 6244
+Text:
+@lirefahd хорошо всё будет.
+Actual language: ru
+Predicted language: mn
+-----------------
+Index: 10298
+Text:
+@go_madness @Mikhael_Sam Поздравляю Дим )
+Actual language: ru
+Predicted language: bg
+-----------------
+Index: 2547
+Text:
+@zhekas еще как, а еще мы призы будем хорошие дарить блоггерам ;) http://t.co/ibQlyJVs
+Actual language: ru
+Predicted language: ky
+-----------------
+
+
+

@@ -1,0 +1,70 @@
+False Positive samples:
+
+Index: 13623
+Text:
+Ремонти варна – майстори професионалисти за вашия дом : http://t.co/f0WpcSti
+Actual language: bg
+Predicted language: ru
+-----------------
+Index: 13457
+Text:
+Шчесни: Можеме во топ 4! http://t.co/3T7hs5Gp
+Actual language: mk
+Predicted language: ru
+-----------------
+Index: 13621
+Text:
+Наем тристаен, 100 кв.м., гр. софия, лозенец : http://t.co/jMIcZLDN
+Actual language: bg
+Predicted language: ru
+-----------------
+Index: 4897
+Text:
+Схованки душі / Inner Sanctum (1991 / DVDRip): Невірний чоловік (Боттомс), одружений на… http://t.co/EsfrAQYi
+Actual language: uk
+Predicted language: ru
+-----------------
+Index: 4468
+Text:
+@turbo_pixel ніколі ён ня быў тортам
+Actual language: be
+Predicted language: ru
+-----------------
+
+
+
+False Negative samples:
+
+Index: 11703
+Text:
+С контейнеровоза "Рена" собрано более тысячи тонн нефтепродуктов
+Actual language: ru
+Predicted language: mk
+-----------------
+Index: 11886
+Text:
+Знакомства семья в германии знакомства ради секса в уфе Знакомства Облучье (Еврейская авт. обл.) http://t.co/X2p5m7kh
+Actual language: ru
+Predicted language: bg
+-----------------
+Index: 13084
+Text:
+ПЛН: Телеведущую не уволят за оговорку о похоронах Путина http://t.co/n5O6QESy
+Actual language: ru
+Predicted language: sr
+-----------------
+Index: 355
+Text:
+ВЫСТАВКИ http://t.co/7mTYAYWy
+Actual language: ru
+Predicted language: nso
+-----------------
+Index: 8434
+Text:
+Wall-e, 36, Москва, ищу: Девушку  от 25  до 30: Ищу: Улыбчивую и уютную Девочку))) http://t.co/NeahFVSg
+Actual language: ru
+Predicted language: mk
+-----------------
+
+
+
